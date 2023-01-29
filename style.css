@@ -1,0 +1,37 @@
+body{ background-color: rgb(151, 155, 207);
+text-align:center;
+}
+
+h1{color: rgb(78, 23, 161);
+font-size: 8rem;
+font-weight: bold;
+margin:10px;
+width: 100%;
+text-shadow: 5px 0 #09070d;
+font-family: 'Brush Script MT'
+}
+
+img{
+   width: 250px; height: 250px;
+  
+}
+
+div {
+display: inline-block;
+margin: 0px 50px 0px 0px;
+} 
+p{
+   
+   font-size: 3rem;
+   color: rgb(78, 23, 161);
+   font-family: 'Brush Script MT';
+}
+
+#btn{ 
+   position: bottom;
+   border-radius: 25px;
+   font-size: 2rem;
+   background-color:  rgb(78, 23, 161);
+color: white;
+position: fixed;
+  bottom: 4px; }
